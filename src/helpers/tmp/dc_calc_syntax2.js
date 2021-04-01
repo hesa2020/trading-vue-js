@@ -27,8 +27,9 @@ class Overlay1 {
             }
             return sum / length // Returns the last value
         }
-    `
-}
+        `;
+    }
+};
 
 class Overlay2 {
     // ... methods:
@@ -63,6 +64,6 @@ class Overlay2 {
             // t -> current timestamp
             if (t > 1594804193000) { /* ... */ }
             return
-        `
+        `;
     }
-}
+};
