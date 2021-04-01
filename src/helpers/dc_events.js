@@ -462,7 +462,7 @@ export default class DCEvents {
             return
         }
         this.data.tools.push({
-            type, icon: Icons['settings.png']
+            type, icon: Icons['settings2.png']
         })
     }
 
